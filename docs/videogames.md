@@ -30,13 +30,15 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 ## Puzzle
 
-<!-- Agregar descripción del género y link a Wikipedia -->
+Los juegos de **PUZZLE**, también conocidos como rompecabezas o juegos de ingenio, son pasatiempos que ponen a prueba la lógica, la memoria y la capacidad para resolver problemas.
+[Wikipedia](https://en-wikipedia-org.translate.goog/wiki/Puzzle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge)
 
-- Tetris
+
+- [Tetris](https://vscode.dev/github/LucasBarnett05/git-videogames/blob/main/docs/puzzle/tetris.md)
 
 ## Sandbox
 
 A sandbox game is an open-ended genre that gives players freedom to explore, create and interact with the world without following a fixed set of objectives.
 [Wikipedia](https://en.wikipedia.org/wiki/Sandbox_game)
 
-- Minecraft
+- [Minecraft]()
